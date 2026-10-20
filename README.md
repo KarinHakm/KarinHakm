@@ -11,7 +11,7 @@ I am adaptive, resilient, and highly motivated to learn from experienced develop
 - **Tools:** Git, GitHub, VS Code
 
 ### 🎯 My Goal:
-I am currently sharpening my skills and building practical applications. My goal is to secure an internship at a forward-thinking company like **Playtech**, where I can solve exciting challenges, learn best coding practices, and grow into a professional developer.
+I am currently sharpening my skills and building practical applications. My goal is to secure an internship at a forward-thinking technology company, where I can solve exciting challenges, learn best coding practices, and grow into a professional developer.
 
 ---
 📫 **How to reach me:** karinhakmann@gmail.com
